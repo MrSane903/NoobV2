@@ -571,7 +571,7 @@ new SlashCommandBuilder()
 
 
   new SlashCommandBuilder()
-  .setName("randommessage")
+  .setName("export")
   .setDescription("Generate a random message."),
 
 new SlashCommandBuilder()
